@@ -1,0 +1,14 @@
+{
+  "name": "scrapingsunedu",
+  "version": "1.0.0",
+  "description": "scrapingDatosPeru",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.1.0"
+  }
+}
